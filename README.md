@@ -28,7 +28,7 @@ Olá, sou a Ingrid, seja bem vindo ao meu perfil 👋
   </div>
 </p>
 </p>
-<div> 
+<div style="text-align: center;">
 
   <a href = "mailto:ingridols35@gmail.comcom"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/ingrid-oliveira-a192b9181" target="_blank">
