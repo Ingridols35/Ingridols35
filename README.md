@@ -30,8 +30,10 @@ Olá, sou a Ingrid, seja bem vindo ao meu perfil 👋
 <div> 
 
   <a href = "mailto:ingridols35@gmail.comcom"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="www.linkedin.com/in/ingrid-oliveira-a192b9181" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
+<a href="https://www.linkedin.com/in/ingrid-oliveira-a192b9181" target="_blank">
+  <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+
 </div>
 
 
